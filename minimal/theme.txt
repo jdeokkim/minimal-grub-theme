@@ -1,5 +1,5 @@
 title-text: ""
-desktop-color: "#000000"
+desktop-image: "background.png"
 terminal-font: "Terminus 16"
 terminal-left: "0"
 terminal-top: "0"
