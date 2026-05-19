@@ -3,7 +3,7 @@
 [![Release](https://img.shields.io/github/actions/workflow/status/tomdewildt/minimal-grub-theme/cd.yml?label=release)](https://github.com/tomdewildt/minimal-grub-theme/actions/workflows/cd.yml)
 [![License](https://img.shields.io/github/license/tomdewildt/minimal-grub-theme)](https://github.com/tomdewildt/minimal-grub-theme/blob/master/LICENSE)
 
-Minimalistic GRUB theme insipired by [primitivistical](https://gitlab.com/fffred/primitivistical-grub/-/tree/master/) and [vimix](https://github.com/vinceliuice/grub2-themes).
+Minimalistic GRUB theme inspired by [primitivistical](https://gitlab.com/fffred/primitivistical-grub/-/tree/master/) and [vimix](https://github.com/vinceliuice/grub2-themes).
 
 # How To Install
 
